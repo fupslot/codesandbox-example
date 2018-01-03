@@ -12,7 +12,7 @@ const App = ({name}) => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
     <h2>
-      Start editing to see {name} some magic happen {"\u2728"}
+      Start 1 editing to see {name} some dhshmagic happen {"\u2728"}
     </h2>
   </div>
 );
